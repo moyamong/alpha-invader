@@ -1,4 +1,5 @@
-# alpha_invader
+ALPHA INVADER
+=============
 shooting game alpha invader
 
 I made it in 2016
